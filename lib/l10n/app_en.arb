@@ -1,0 +1,9 @@
+{
+  "titulo" : "Currency Converter",
+  "comprar" : "Buy",
+  "vender" : "Sell",
+  "consultar" : "Confer",
+  "limpar" : "Clear",
+  "quantidade" : "Amount",
+  "campovazio" : "Please enter a value!"
+}

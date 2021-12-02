@@ -1,0 +1,9 @@
+{
+  "titulo": "Convertidor de Monedas",
+  "comprar": "Consultar",
+  "vender" : "Vender",
+  "consultar" : "Cheque",
+  "limpar" : "Limpiar",
+  "campovazio" : "¡Porfavor introduzca un valor!",
+  "quantidade" : "Cantidad"
+}

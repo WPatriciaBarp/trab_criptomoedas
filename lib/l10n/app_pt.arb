@@ -1,0 +1,13 @@
+{
+  "titulo": "Conversor de Moedas",
+  "@titulo": {"description": "Titulo do App" },
+  "comprar" : "Comprar",
+  "vender" : "Vender",
+  "consultar": "Consultar",
+  "limpar" : "Limpar",
+  "quantidade" : "Quantidade",
+  "campovazio" : "Por favor digite um valor!"
+}
+
+
+
